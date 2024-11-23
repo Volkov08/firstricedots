@@ -4,9 +4,13 @@ Also my first time using a Tiling WM
 
 ![screenshot](https://raw.githubusercontent.com/Volkov08/firstricedots/refs/heads/master/scrn.png)
 
-Arch with Hyprland
-File manager: Thunar
+Arch with Hyprland 
+
+File manager: Thunar 
+
 Terminal emulator: Alacritty
-Launcher: rofi
+
+Launcher: rofi 
+
 
 Theme for Vscode and Alacritty is Tokyo Night, rofi styled accordingly
